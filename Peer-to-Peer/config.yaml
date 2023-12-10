@@ -1,0 +1,10 @@
+client_ip: 127.0.0.1
+client_port: 12345
+
+# server_ip: 127.0.0.1
+# server_port: 23456
+
+
+# These options can be used to connect to the remote server
+server_ip: 130.225.104.138
+server_port: 5555

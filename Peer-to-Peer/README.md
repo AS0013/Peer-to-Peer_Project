@@ -1,4 +1,3 @@
-# CompSys A3 solution README
 To run these programmes the Python server will first need to be started using
 the commands below. Either a Python or C client can then be started. 
 
